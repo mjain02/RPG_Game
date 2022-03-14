@@ -1,0 +1,77 @@
+		GT Quest MMXXI FEATURE CHECKLIST
+
+
+Student Name: Meghna Jain
+
+BASIC GAME FUNCTIONALITY
+
+__*__  Accelerometer moves the player
+
+__*__  Walls block character motion
+
+__*__  Omnipotent mode button walks through walls
+
+__*__  The first Map must be bigger than the screen (at least 50*50 tiles)
+
+__*__  Stairs/ladders/portals/the door go between the first and the second map.
+
+__*__  More than 1 spell to choose from to fight monster
+
+__*__  Dialogue box presents when casting spell
+
+__*__  Quest works (key & door work)
+
+__*__  Display Game Over when quest complete
+
+__*__  Status bar shows player coordinates
+
+__*__  Speech bubbles used in quest
+
+__*__  Art include at least one sprite
+
+
+
+
+EXTRA FEATURES (choose up to 10):
+
+__**__  Add a start page
+
+__**__  Sound effects for interactions / background music
+
+____  Different modes of locomotion (e.g., running, hopping, etc. ) They should be visually distinctive.
+
+__**__  Animation for interactions with things in the map
+
+____  In-game menu:
+	•  Save the game
+	•  Show status information
+	•  Configuration (Accelerometer direction, which button is which, etc.)
+
+____  In game inventory with useable items
+
+__**__  Multiple lives and the possibility to lose:
+	•  Health & stuff that hurts you.
+
+____  Mobile (walking) NPCs or monster.
+
+____  Save the game (persistent over power-off)
+
+____  Bigger objects in the map that blocks the character.
+	•  A very tall tree that hides the character.
+	•  A feature you can walk behind/under such as a bridge.
+
+____  Multiple enemies to defeat
+
+____  Throwable combat items
+	•  Animated dagger/spells
+
+____  Turn based combat menus
+
+____  Side profile for combat (think of pokemon games combat sequences) : will likely require use of
+SD card reader.
+
+____  Other: (please describe)
+
+1.  ** Create at least 5 different sprites
+2.  ** 2 separate screens for losing and winning the game
+3.  ** Boss lives - multiple lives for the monster
